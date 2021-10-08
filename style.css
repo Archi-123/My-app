@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+  
+}
+
+#start-btn
+{
+    width: 40%;
+} 
+
+#textbox
+{
+    resize: none;
+    width: 300px;
+}
